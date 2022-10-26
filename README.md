@@ -1,7 +1,6 @@
 hi! <3
 
 computer science @ ntnu trondheim. 
-
 teamleader, embedded electronics @ shift hyperloop. 
 
 technical: c, python, html/css/js. 
