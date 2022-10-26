@@ -1,4 +1,7 @@
-### Hi there 👋
+hi! <3
+
+computer science @ ntnu trondheim. 
+teamleader, embedded electronics @ shift hyperloop. 
 
 <!--
 **tomineb/tomineb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
